@@ -1,0 +1,28 @@
+{
+
+  "name": "Summerschool_2019_website_sponsors",
+  "version": "1.0.0",
+  "description": "Summer School Website Sponsors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaphniL/Summerschool_2019_website_sponsors.git"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaphniL/Summerschool_2019_website_sponsors/issues"
+  },
+
+  "homepage": "https://github.com/DaphniL/Summerschool_2019_website_sponsors#readme",
+
+  "devDependencies": {
+    "gulp-sass": "^3.2.1"
+  }
+
+}
